@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: pingpang_Sport - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP18CD.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/pingpang_Sport.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\vc6.0\mfc\pingpang_Sport\pingpang_SportView.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSP18CD.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP18CE.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/pingpang_Sport.pdb" /debug /machine:I386 /out:"Debug/pingpang_Sport.exe" /pdbtype:sept 
+.\Debug\Ball.obj
+.\Debug\DlgSet.obj
+.\Debug\MainFrm.obj
+.\Debug\pingpang_Sport.obj
+.\Debug\pingpang_SportDoc.obj
+.\Debug\pingpang_SportView.obj
+.\Debug\StdAfx.obj
+.\Debug\pingpang_Sport.res
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSP18CE.tmp"
+<h3>Output Window</h3>
+Compiling...
+pingpang_SportView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+pingpang_Sport.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

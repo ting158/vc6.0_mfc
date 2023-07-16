@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 列表框 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPCB24.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/列表框.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\Microsoft Visual Studio\MyProjects\mfc\列表框\DlgLieBiao.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSPCB24.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPCB25.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/列表框.pdb" /debug /machine:I386 /out:"Debug/列表框.exe" /pdbtype:sept 
+".\Debug\列表框.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\列表框Doc.obj"
+".\Debug\列表框View.obj"
+".\Debug\列表框.res"
+".\Debug\DlgLieBiao.obj"
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSPCB25.tmp"
+<h3>Output Window</h3>
+Compiling...
+DlgLieBiao.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+列表框.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

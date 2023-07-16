@@ -1,0 +1,48 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BLDC - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPFAAE.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/BLDC.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\×ÀÃæ\BLDC\BLDC.cpp"
+"E:\×ÀÃæ\BLDC\BLDCView.cpp"
+"E:\×ÀÃæ\BLDC\DianJi.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSPFAAE.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPFAAF.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/BLDC.pdb" /debug /machine:I386 /out:"Debug/BLDC.exe" /pdbtype:sept 
+".\Debug\BLDC.obj"
+".\Debug\BLDCDoc.obj"
+".\Debug\BLDCView.obj"
+".\Debug\DianJi.obj"
+".\Debug\DlgCanShuSheZhi.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\BLDC.res"
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSPFAAF.tmp"
+<h3>Output Window</h3>
+Compiling...
+BLDC.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+BLDCView.cpp
+DianJi.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/BLDC.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\BLDC.sbr" ".\Debug\BLDCDoc.sbr" ".\Debug\BLDCView.sbr" ".\Debug\DianJi.sbr" ".\Debug\DlgCanShuSheZhi.sbr" ".\Debug\MainFrm.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+BLDC.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 对话框中画图 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP61BA.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/对话框中画图.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSP61BA.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP61BB.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/对话框中画图.pdb" /debug /machine:I386 /out:"Debug/对话框中画图.exe" /pdbtype:sept 
+".\Debug\对话框中画图.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\对话框中画图Doc.obj"
+".\Debug\对话框中画图View.obj"
+".\Debug\对话框中画图.res"
+".\Debug\DlgPCurve.obj"
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSP61BB.tmp"
+<h3>Output Window</h3>
+Compiling...
+DlgPCurve.cpp
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(142) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(143) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(145) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(145) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+D:\Microsoft Visual Studio\MyProjects\mfc\对话框中画图\DlgPCurve.cpp(148) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+对话框中画图.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

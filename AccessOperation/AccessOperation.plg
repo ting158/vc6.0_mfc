@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: AccessOperation - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP6F01.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/AccessOperation.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\vc6.0\mfc\AccessOperation\AccessOperationDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSP6F01.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP6F02.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/AccessOperation.pdb" /debug /machine:I386 /out:"Debug/AccessOperation.exe" /pdbtype:sept 
+.\Debug\AccessAdo.obj
+.\Debug\AccessOperation.obj
+.\Debug\AccessOperationDlg.obj
+.\Debug\StdAfx.obj
+.\Debug\AccessOperation.res
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSP6F02.tmp"
+<h3>Output Window</h3>
+Compiling...
+AccessOperationDlg.cpp
+e:\vc6.0\mfc\accessoperation\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/AccessOperation.bsc"  .\Debug\StdAfx.sbr .\Debug\AccessAdo.sbr .\Debug\AccessOperation.sbr .\Debug\AccessOperationDlg.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+AccessOperation.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

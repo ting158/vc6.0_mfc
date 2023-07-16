@@ -1,0 +1,6 @@
+robotName = 张三, x = 30.000000, y = 10.000000, wBody = 24.000000, hBody = 12.000000, wNeck = 6.000000, hNeck = 8.000000, rHead = 10.000000, wEyes = 2.000000, hEyes = 1.000000, wNose = 4.000000, wMouth = 4.000000, hMouth = 2.000000, wArm = 10.000000, hArm = 3.000000, AngleArm = 41.831089, wLeg = 0.000000, hLeg = 5.000000, wFoot = 3.000000, hFoot = p^i
+
+robotName = 李四, x = 20.000000, y = 10.000000, wBody = 24.000000, hBody = 12.000000, wNeck = 6.000000, hNeck = 8.000000, rHead = 10.000000, wEyes = 2.000000, hEyes = 2.000000, wNose = 4.000000, wMouth = 4.000000, hMouth = 2.000000, wArm = 10.000000, hArm = 3.000000, AngleArm = 31.078365, wLeg = 0.000000, hLeg = 5.000000, wFoot = 3.000000, hFoot = p^i
+
+robotName = 王五, x = 0.000000, y = 10.000000, wBody = 24.000000, hBody = 12.000000, wNeck = 6.000000, hNeck = 8.000000, rHead = 10.000000, wEyes = 2.000000, hEyes = 2.000000, wNose = 4.000000, wMouth = 4.000000, hMouth = 2.000000, wArm = 10.000000, hArm = 3.000000, AngleArm = 2.124359, wLeg = 0.000000, hLeg = 5.000000, wFoot = 3.000000, hFoot = p^i
+

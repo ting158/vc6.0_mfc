@@ -1,0 +1,59 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Access_Robot - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP9874.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/Access_Robot.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\vc6.0\mfc\Access_Robot\Robot.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSP9874.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP9875.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Access_Robot.pdb" /debug /machine:I386 /out:"Debug/Access_Robot.exe" /pdbtype:sept 
+.\Debug\Access_Robot.obj
+.\Debug\Access_RobotDoc.obj
+.\Debug\Access_RobotView.obj
+.\Debug\DatabaseOperate.obj
+.\Debug\MainFrm.obj
+.\Debug\Robot.obj
+.\Debug\StdAfx.obj
+.\Debug\Access_Robot.res
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSP9875.tmp"
+<h3>Output Window</h3>
+Compiling...
+Robot.cpp
+e:\vc6.0\mfc\access_robot\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(136) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(137) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(138) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(144) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(145) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(146) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(148) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(149) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(154) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(155) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(156) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(157) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(162) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(163) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(164) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\Access_Robot\Robot.cpp(165) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/Access_Robot.bsc"  .\Debug\StdAfx.sbr .\Debug\Access_Robot.sbr .\Debug\Access_RobotDoc.sbr .\Debug\Access_RobotView.sbr .\Debug\DatabaseOperate.sbr .\Debug\MainFrm.sbr .\Debug\Robot.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Access_Robot.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

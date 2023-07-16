@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 下拉框 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPABEB.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/下拉框.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\VC6.0\MyProjects\mfc\下拉框\MainFrm.cpp"
+"D:\VC6.0\MyProjects\mfc\下拉框\DlgXiaLa.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSPABEB.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPABEC.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/下拉框.pdb" /debug /machine:I386 /out:"Debug/下拉框.exe" /pdbtype:sept 
+".\Debug\下拉框.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\下拉框Doc.obj"
+".\Debug\下拉框View.obj"
+".\Debug\下拉框.res"
+".\Debug\DlgXiaLa.obj"
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSPABEC.tmp"
+<h3>Output Window</h3>
+Compiling...
+DlgXiaLa.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+MainFrm.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+下拉框.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

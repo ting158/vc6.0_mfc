@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 进度条 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPB2D0.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/进度条.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\Microsoft Visual Studio\MyProjects\mfc\进度条\DlgProgress.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSPB2D0.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPB2D1.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/进度条.pdb" /debug /machine:I386 /out:"Debug/进度条.exe" /pdbtype:sept 
+".\Debug\进度条.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\进度条Doc.obj"
+".\Debug\进度条View.obj"
+".\Debug\进度条.res"
+".\Debug\DlgProgress.obj"
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSPB2D1.tmp"
+<h3>Output Window</h3>
+Compiling...
+DlgProgress.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+进度条.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

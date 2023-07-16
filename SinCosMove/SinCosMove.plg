@@ -1,0 +1,168 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SinCosMove - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP2ED1.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/SinCosMove.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\vc6.0\mfc\SinCosMove\SinCos.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSP2ED1.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP2ED2.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/SinCosMove.pdb" /debug /machine:I386 /out:"Debug/SinCosMove.exe" /pdbtype:sept 
+.\Debug\DlgSet.obj
+.\Debug\MainFrm.obj
+.\Debug\SinCos.obj
+.\Debug\SinCosMove.obj
+.\Debug\SinCosMoveDoc.obj
+.\Debug\SinCosMoveView.obj
+.\Debug\StdAfx.obj
+.\Debug\SinCosMove.res
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSP2ED2.tmp"
+<h3>Output Window</h3>
+Compiling...
+SinCos.cpp
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(32) : warning C4305: '=' : truncation from 'const double' to 'float'
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(47) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(48) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(82) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(83) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(85) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(85) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(85) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(85) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(89) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(90) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(90) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(92) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(92) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(95) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(97) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(97) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(99) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(99) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(105) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(105) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(107) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(108) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(108) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(112) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(112) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(113) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(114) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(114) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(118) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(119) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(120) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(120) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(121) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(122) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(122) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(124) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(125) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(126) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(126) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(132) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(133) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(134) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(134) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(138) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(139) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(140) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(140) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(142) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(142) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(144) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(147) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(147) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(151) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(152) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(153) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(153) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(155) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(155) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(157) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(160) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(160) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(164) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(165) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(166) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(166) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(168) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(168) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(173) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(173) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(181) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(182) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(187) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(193) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(198) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(207) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(208) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(213) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(219) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(224) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(231) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(235) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(236) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(268) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(269) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(270) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(270) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(272) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(272) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(274) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(275) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(276) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(276) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(278) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(278) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(282) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(282) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(285) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(286) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(287) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(287) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(289) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(291) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(291) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(293) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(293) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(297) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(297) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(299) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(301) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(301) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(303) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(303) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(307) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(307) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(311) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(312) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(313) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(313) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(315) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(315) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(319) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(319) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(322) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(324) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(324) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(327) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(329) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+E:\vc6.0\mfc\SinCosMove\SinCos.cpp(329) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+SinCosMove.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

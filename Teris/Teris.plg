@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Teris - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP34AC.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Teris.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\VC6.0\MyProjects\mfc\Teris\TerisView.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSP34AC.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP34AD.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Teris.pdb" /debug /machine:I386 /out:"Debug/Teris.exe" /pdbtype:sept 
+.\Debug\Teris.obj
+.\Debug\StdAfx.obj
+.\Debug\MainFrm.obj
+.\Debug\TerisDoc.obj
+.\Debug\TerisView.obj
+.\Debug\Teris.res
+.\Debug\RussiaBlock.obj
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSP34AD.tmp"
+<h3>Output Window</h3>
+Compiling...
+TerisView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Teris.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

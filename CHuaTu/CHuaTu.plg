@@ -1,0 +1,46 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CHuaTu - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPD416.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/CHuaTu.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\Microsoft Visual Studio\MyProjects\mfc\CHuaTu\CHuaTu.cpp"
+"D:\Microsoft Visual Studio\MyProjects\mfc\CHuaTu\CHuaTuView.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSPD416.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPD417.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/CHuaTu.pdb" /debug /machine:I386 /out:"Debug/CHuaTu.exe" /pdbtype:sept 
+".\Debug\CHuaTu.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\CHuaTuDoc.obj"
+".\Debug\CHuaTuView.obj"
+".\Debug\CHuaTu.res"
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSPD417.tmp"
+<h3>Output Window</h3>
+Compiling...
+CHuaTuView.cpp
+D:\Microsoft Visual Studio\MyProjects\mfc\CHuaTu\CHuaTuView.cpp(143) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+D:\Microsoft Visual Studio\MyProjects\mfc\CHuaTu\CHuaTuView.cpp(145) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Generating Code...
+Skipping... (no relevant changes detected)
+CHuaTu.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/CHuaTu.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\CHuaTu.sbr" ".\Debug\MainFrm.sbr" ".\Debug\CHuaTuDoc.sbr" ".\Debug\CHuaTuView.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+CHuaTu.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: picture控件 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPCC8D.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/picture控件.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Microsoft Visual Studio\MyProjects\mfc\picture控件\DlgPaintHuoJian.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSPCC8D.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSPCC8E.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/picture控件.pdb" /debug /machine:I386 /out:"Debug/picture控件.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\picture控件.obj"
+".\Debug\picture控件Doc.obj"
+".\Debug\picture控件View.obj"
+".\Debug\StdAfx.obj"
+".\Debug\picture控件.res"
+".\Debug\DlgHuoJian.obj"
+".\Debug\DlgPaintHuoJian.obj"
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSPCC8E.tmp"
+<h3>Output Window</h3>
+Compiling...
+DlgPaintHuoJian.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+picture控件.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

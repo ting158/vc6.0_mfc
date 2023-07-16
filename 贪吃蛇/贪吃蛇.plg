@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Ã∞≥‘…ﬂ - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP71E4.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Ã∞≥‘…ﬂ.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\VC6.0\MyProjects\mfc\Ã∞≥‘…ﬂ\TanChiShe.cpp"
+"D:\VC6.0\MyProjects\mfc\Ã∞≥‘…ﬂ\Ã∞≥‘…ﬂ.cpp"
+"D:\VC6.0\MyProjects\mfc\Ã∞≥‘…ﬂ\Ã∞≥‘…ﬂView.cpp"
+]
+Creating command line "cl.exe @C:\Users\15896\AppData\Local\Temp\RSP71E4.tmp" 
+Creating temporary file "C:\Users\15896\AppData\Local\Temp\RSP71F4.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Ã∞≥‘…ﬂ.pdb" /debug /machine:I386 /out:"Debug/Ã∞≥‘…ﬂ.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TanChiShe.obj"
+".\Debug\Ã∞≥‘…ﬂ.obj"
+".\Debug\Ã∞≥‘…ﬂDoc.obj"
+".\Debug\Ã∞≥‘…ﬂView.obj"
+".\Debug\Ã∞≥‘…ﬂ.res"
+]
+Creating command line "link.exe @C:\Users\15896\AppData\Local\Temp\RSP71F4.tmp"
+<h3>Output Window</h3>
+Compiling...
+TanChiShe.cpp
+d:\vc6.0\myprojects\mfc\Ã∞≥‘…ﬂ\tanchishe.cpp(5) : warning C4652: compiler option 'Generate Browser Info' inconsistent with precompiled header; current command-line option will override that defined in the precompiled header
+Ã∞≥‘…ﬂ.cpp
+d:\vc6.0\myprojects\mfc\Ã∞≥‘…ﬂ\Ã∞≥‘…ﬂ.cpp(4) : warning C4652: compiler option 'Generate Browser Info' inconsistent with precompiled header; current command-line option will override that defined in the precompiled header
+Generating Code...
+Skipping... (no relevant changes detected)
+Ã∞≥‘…ﬂView.cpp
+D:\VC6.0\MyProjects\mfc\Ã∞≥‘…ﬂ\TanChiShe.cpp(209) : warning C4715: 'CTanChiShe::isOver' : not all control paths return a value
+Linking...
+
+
+
+<h3>Results</h3>
+Ã∞≥‘…ﬂ.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
